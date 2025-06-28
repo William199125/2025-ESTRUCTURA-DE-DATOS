@@ -1,0 +1,15 @@
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\bin\Debug\net9.0\Semana4.exe
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\bin\Debug\net9.0\Semana4.deps.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\bin\Debug\net9.0\Semana4.runtimeconfig.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\bin\Debug\net9.0\Semana4.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\bin\Debug\net9.0\Semana4.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.AssemblyInfo.cs
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.sourcelink.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\refint\Semana4.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\Semana4.genruntimeconfig.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana4\obj\Debug\net9.0\ref\Semana4.dll
