@@ -1,0 +1,15 @@
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\bin\Debug\net9.0\Semana6RegistroEstudiantes.exe
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\bin\Debug\net9.0\Semana6RegistroEstudiantes.deps.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\bin\Debug\net9.0\Semana6RegistroEstudiantes.runtimeconfig.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\bin\Debug\net9.0\Semana6RegistroEstudiantes.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\bin\Debug\net9.0\Semana6RegistroEstudiantes.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.AssemblyInfo.cs
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.sourcelink.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\refint\Semana6RegistroEstudiantes.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\Semana6RegistroEstudiantes.genruntimeconfig.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroEstudiantes\obj\Debug\net9.0\ref\Semana6RegistroEstudiantes.dll
