@@ -1,0 +1,15 @@
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\bin\Debug\net9.0\Semana6RegistroVehicular.exe
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\bin\Debug\net9.0\Semana6RegistroVehicular.deps.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\bin\Debug\net9.0\Semana6RegistroVehicular.runtimeconfig.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\bin\Debug\net9.0\Semana6RegistroVehicular.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\bin\Debug\net9.0\Semana6RegistroVehicular.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.AssemblyInfo.cs
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.sourcelink.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\refint\Semana6RegistroVehicular.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\Semana6RegistroVehicular.genruntimeconfig.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana6RegistroVehicular\obj\Debug\net9.0\ref\Semana6RegistroVehicular.dll
