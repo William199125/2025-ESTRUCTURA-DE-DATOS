@@ -1,0 +1,15 @@
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.AssemblyInfo.cs
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.sourcelink.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\bin\Debug\net9.0\Semana7paréntesisbalanceados.exe
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\bin\Debug\net9.0\Semana7paréntesisbalanceados.deps.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\bin\Debug\net9.0\Semana7paréntesisbalanceados.runtimeconfig.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\bin\Debug\net9.0\Semana7paréntesisbalanceados.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\bin\Debug\net9.0\Semana7paréntesisbalanceados.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\refint\Semana7paréntesisbalanceados.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\Semana7paréntesisbalanceados.genruntimeconfig.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7paréntesisbalanceados\obj\Debug\net9.0\ref\Semana7paréntesisbalanceados.dll

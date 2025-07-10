@@ -1,0 +1,15 @@
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\bin\Debug\net9.0\Semana7TorresHanoi.exe
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\bin\Debug\net9.0\Semana7TorresHanoi.deps.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\bin\Debug\net9.0\Semana7TorresHanoi.runtimeconfig.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\bin\Debug\net9.0\Semana7TorresHanoi.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\bin\Debug\net9.0\Semana7TorresHanoi.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.AssemblyInfo.cs
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.sourcelink.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\refint\Semana7TorresHanoi.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\Semana7TorresHanoi.genruntimeconfig.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\Semana7TorresHanoi\obj\Debug\net9.0\ref\Semana7TorresHanoi.dll

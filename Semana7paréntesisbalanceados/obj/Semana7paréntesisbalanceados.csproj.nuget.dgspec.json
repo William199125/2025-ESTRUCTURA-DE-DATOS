@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana2\\Semana2.csproj": {}
+    "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana7paréntesisbalanceados\\Semana7paréntesisbalanceados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana2\\Semana2.csproj": {
+    "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana7paréntesisbalanceados\\Semana7paréntesisbalanceados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana2\\Semana2.csproj",
-        "projectName": "Semana2",
-        "projectPath": "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana2\\Semana2.csproj",
+        "projectUniqueName": "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana7paréntesisbalanceados\\Semana7paréntesisbalanceados.csproj",
+        "projectName": "Semana7paréntesisbalanceados",
+        "projectPath": "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana7paréntesisbalanceados\\Semana7paréntesisbalanceados.csproj",
         "packagesPath": "C:\\Users\\WILLIAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana2\\obj\\",
+        "outputPath": "C:\\Users\\WILLIAM\\Documents\\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\\Estrcuctura de Datos\\Semana7paréntesisbalanceados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WILLIAM\\AppData\\Roaming\\NuGet\\NuGet.Config"
