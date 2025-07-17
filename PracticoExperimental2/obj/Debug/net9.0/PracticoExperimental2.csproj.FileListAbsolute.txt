@@ -1,0 +1,15 @@
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.exe
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.deps.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.runtimeconfig.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimental2.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.AssemblyInfo.cs
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.sourcelink.json
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\refint\PracticoExperimental2.dll
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.pdb
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimental2.genruntimeconfig.cache
+C:\Users\WILLIAM\Documents\PROYECTOS VISUAL S CODE ESTUCTURA DE DATOS\Estrcuctura de Datos\PracticoExperimental2\obj\Debug\net9.0\ref\PracticoExperimental2.dll
